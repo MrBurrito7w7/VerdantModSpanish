@@ -1,14 +1,14 @@
 VerdantUndergroundBiome: {
-	TownNPCDialogueName: the Verdant
-	DisplayName: Verdant Biome
+	TownNPCDialogueName: el Verdor
+	DisplayName: Bioma Verdeante
 }
 
 VerdantBiome: {
-	TownNPCDialogueName: the Verdant
-	DisplayName: Verdant Biome
+	TownNPCDialogueName: el Verdor
+	DisplayName: Bioma Verdeante
 }
 
 NearApotheosisBiome: {
-	TownNPCDialogueName: near the Apotheosis
-	DisplayName: Near the Apotheosis
+	TownNPCDialogueName: cerca del Apoteosis
+	DisplayName: Cerca del Apoteosis
 }
