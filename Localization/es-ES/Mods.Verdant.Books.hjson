@@ -5,33 +5,33 @@ RockBook: {
 	Content:
 		'''
 
-		"Supposedly from a distant island, unknown.
-		Would make for an incredible research opportunity!
-		Striations of obsidian line the rock, 
-		along with ember particles throughout? Research later.
-		Various hints of iron, bismite, lead
-		and obsidian in no particular order.
-		Despite its age, still warm to the touch - also sounds hollow?
-		Need more samples, asked around...no replies.
-		Might go searching for more.
-		It's been a while!
-		Map shows a volcanic area around [scratch mark] or so..."
+		"Supuestamente proviene de una isla apartada.
+		¡Sería una oportunidad de investigación increíble!
+		Estrías de obsidiana recubren la roca, 
+		¿acompañada de particulas de brasa? Investigar más tarde.
+		Hay indicios de hierro, bismita, cuero
+		y obsidiana sin un orden en particular.
+		Apesar de su edad, resulta cálida al tacto - ¿y suena hueca?
+		Necesito más muestras, consulté...sin éxito.
+		Quizá vaya a buscar más.
+		¡Ha pasado tiempo!
+		El mapa muestra un área volcánica cerca [Arañazo] creo..."
 
-		Despite the introduction, this book seems to slowly
-		change in purpose - becoming sort of an explorer's log:
+		A pesar de la introducción, el libro parece cambiar
+		lentamente - transformándose en una especie de diario:
 
-		"Adventure going well,
-		though fruitless; idyll forests
-		sit patiently, as
+		"La aventura va bien,
+		aunque infructuosa; bosques idílicos
+		me esperan, al igual que
 
-		what awaits me at
-		the end of this adventure -
-		a great volcano...
+		lo que me espera
+		al final de esta aventura -
+		un gran volcan...
 
-		I'm just sure of it."
+		Estoy seguro de ello."
 
 		'''
-	Title: Volcanic Rocks
+	Title: Rocas Volcánicas
 }
 
 LightbulbBook: {
@@ -39,29 +39,29 @@ LightbulbBook: {
 		0:
 			'''
 
-			"Weird bulbs? Seeds?
-			made of soft plantlike material, like leaves.
-			Glows softly, though sometimes in a...wave like motion.
-			Works as a source of sunlight, grows on certain flowers."
+			"¿Bulbos? ¿semillas?
+			hechos de un material suave, como hojas.
+			brilla tenuemente, a veces en una...forma de onda u ola.
+			Es una fuente de luz solar, crece en ciertas flores."
 
 			'''
 		1:
 			'''
 
-			"Full of water? sugar?
-			Tastes bland, a bit sweet, bit of dirt, mildly grassy, and
-			a tinge of iron (or other metal? Test later.)
-			Rare, don't have too much to test on.
-			Go searching for more later, might be good food.
-			Beyond analysis, these are incredible specimens...
-			Will make for better light than these fireflies"
+			"¿Llenos de agua? ¿Azúcar?
+			Saben blandos, un poco dulce, terroso, añadido a pasto, y
+			una matiz a hierro (¿u otro metal? lo vere.)
+			Poco común, no tengo muchos para probar.
+			Buscaré más después, puede ser buen alimento.
+			Tras análisis, estos son especímenes increíbles...
+			Darán mejor luz que esas luciérnagas"
 
-			Random things line pages: scribbles, sketches, notes.
-			Occasionally there's a small tidbit of salvageable info:
-			"Grows better in dirty water?"
-			"How would this work in sunlight?"
-			"Almost flowers when growing." +
-			"Soft, but hardy. Hm."
+			Páginas de cosas aleatorias: garabatos, bocetos, notas.
+			Ocasionalmente hay un pequeño dato que se puede rescatar:
+			"¿Crecen mejor en agua terrosa?"
+			"¿Cómo funcionará bajo luz solar?"
+			"Casi flores cuando crecen."
+			"Suave, pero rígido. Hm."
 
 			'''
 	}
@@ -74,73 +74,73 @@ LeafBook: {
 		0:
 			'''
 
-			The book looks particularly old, page worn and oddly brown.
-			The material is also clearly foreign.
-			There's drops of water across the top pages.
-			There's also tons of minor scribbles.
-			The scribbles seem first of random surface landscapes,
-			then of random mundane cave objects...for some reason.
-			There's no dates or authors mentioned, apart from a
-			signature:
+			El libro parece viejo; opaco con páginas desgastadas.
+			El material es claramente extranjero.
+			Marcas de gotas através de las páginas superiores.
+			Existen múltiples garabatos menores.
+			Los garabatos parecen tener forma de paisajes aleatorios,
+			luego a mundanos elementos de cueva...por alguna razón.
+			No hay fechas o autores mencionados más allá de una 
+			firma:
 
 			'''
 		1:
 			'''
 
-			You scan through the book, and spot the following pages:
+			Hojeas el libro, te percatas de las siguientes páginas:
 
 			'''
 		2:
 			'''
 
-			"Almost fabric like texture, durable yet soft.
-			Inexplicably calming to hold, grows well in bulb light.
-			Unpleasant to eat, tastes like grass and dirt.
-			Plentiful, might use (books? pages? look soon).
-			Might work in small parts?
-			Grows in vine like clumps, or just clumps? Unsure.
-			Grow only or mostly around flowers.
+			"Textura parecida a la tela, duradera pero suave.
+			Inexplicablemente relajante, crece bien bajo bombillas.
+			Desagradable al comer, sabor pastoso y sucio.
+			Abundante, útil (¿libros? ¿páginas? miraré pronto).
+			¿Quizá sirva en trozos?
+			Crece en matas, como enredadera, ¿o solo matas? Hm.
+			Crece solo o mayormente entre flores.
 
-			(DO NOT EAT)
+			(NO INGERIR)
 
-			Tried pressing into pages, seem to work but needs
-			more work. Pages are too green."
+			Intente presionar las páginas, parece ayudar pero
+			necesita más esferzo, son demasiado verdes."
 
 			'''
 	}
 
-	Title: Leaves
+	Title: Hojas
 }
 
 HardyVineBook: {
 	Content:
 		'''
 
-		"The final shreds of life around here
-		Incredibly durable, despite how thin they are.
-		Trying to cut one of these apart is borderline futile.
-		They grow sparsely, surrounded by more average, smaller
-		vines, leaves and flora.
-		Sometimes flower, with small light bulbs on them.
+		"Los ultimos jirones de vida por aqui
+		Increiblemente durables, a pesar de ser delgados.
+		Intentar cortar uno de ellos es prácticamente inútil.
+		Crecen de forma escasa, rodeados por más pequeñas vides,
+		hojas y flora.
+		Contadas veces florecen pequeñas luces sobre ellos.
+	
+		NO INGERIR
 
-		DO NOT EAT
+		Como lechuga pero correoso y sucio.
+		Puede usarse para crear cuerdas muy resistentes.
+		¿Podría utilizarse como reforzamiento?
+		...Desconozco si podré."
 
-		Like lettuce but leathery and dirtier.
-		Can be used to create incredibly sturdy ropes.
-		Look into use as a reinforcement?
-		...I don't know if I can."
+		Las hojas que restan tienen pequeños bocetos y
+		cortas anotaciones -
+		
+		"...¿Abundan más ahora?..."
+		"Los especimenes se vuelven robustos"
+		"...Brotan más a menudo..."
 
-		The few remaining pages have small sketches and
-		the occasional small note -
-
-		"...more plentiful now?..."
-		"New specimens are getting stockier"
-		"...sprouting more often..."
-
-		- until the book ends.
+		- Hasta que el libro acaba.
 
 		'''
-	Title: Hardy Vines
+	Title: Vides Resistentes
 }
 
 ApotheosisBook: {
