@@ -119,9 +119,9 @@ HardyVineBook: {
 		"Los ultimos jirones de vida por aqui
 		Increiblemente durables, a pesar de ser delgados.
 		Intentar cortar uno de ellos es prácticamente inútil.
-		Crecen de forma escasa, rodeados por más pequeñas vides,
+		Crecen de forma escasa, rodeados por más vides pequeñas,
 		hojas y flora.
-		Contadas veces florecen pequeñas luces sobre ellos.
+		Contadas veces florecen, con pequeños bulbos brillantes.
 	
 		NO INGERIR
 
@@ -130,11 +130,11 @@ HardyVineBook: {
 		¿Podría utilizarse como reforzamiento?
 		...Desconozco si podré."
 
-		Las hojas que restan tienen pequeños bocetos y
+		Las páginas que restan tienen pequeños bocetos y
 		cortas anotaciones -
 		
 		"...¿Abundan más ahora?..."
-		"Los especimenes se vuelven robustos"
+		"Los especímenes se vuelven robustos"
 		"...Brotan más a menudo..."
 
 		- Hasta que el libro acaba.
@@ -147,78 +147,78 @@ ApotheosisBook: {
 	Content:
 		'''
 
-		"It's been a while since I've run out of supplies.
-		My caravan is empty aside from research,
-		with mice and bats being all I can eat.
-		Water is surprisingly clean and fresh
-		around here, so...it’s just hunger.
-		Some research is done, however.
-		I'm categorizing the flora around here, and it's...magical.
-		To a point where I’m not sure that's simply a term,
-		or just the truth.
-		Some surprisingly lush grass and foliage around,
-		I've even seen some minor tree saplings here and there.
-		A most curious wood, too!
-		Despite my starvation, this is a heaven I’ll suffer for."
+		"A pasado tiempo desde que me quede sin suministros.
+		Mi caravana e investigación estan vacías, 
+		siendo ratones y murciélagos mi único alimento.
+		El agua sorpresivamente es limpia y fresca
+		por aquí, así que...solo es hambre.
+		Sin embargo, tengo algunos estudios.
+		Estoy categorizando la flora local, y es...mágica.
+		Al grado donde no estoy seguro si es un simple término,
+		o una verdad.
+		Alrededor hay hierba y follaje sorprendente y exótico,
+		incluso he visto retoños de arboles por aquí y por allá.
+		¡Un boscaje de lo más curioso!
+		A pesar de mi hambre, este es un paraíso por el que sufriré."
 
 
 		...
 
 
-		"The meager morsels of this land have been sufficient for some
-		time, though barely.
-		I've set up a small but acceptable study,
-		both to hold my things and to keep myself safe.
-		Often an errant skeleton or angry bat
-		finds itself around me,
-		and I am an explorer; monster slayer naught.
-		That being said, food grows scarcer yet.
-		Beyond bats, I’ve lost mice - seems the little critters have
-		learned their biggest threat.
-		Time lies outside of my reach.
-		Studies notwithstanding, I’ve little left anyhow."
+		"Los escasos bocados de este lugar han sido lo suficiente por
+		un tiempo, aunque apenas.
+		He construido un pequeño pero aceptable estudio,
+		tanto para guardar mis cosas como para estar a salvo.
+		Frecuentemente un esqueleto errante o un
+		murciélago enojado se pasean,
+		y yo soy un explorador; nada de cazador de monstruos.
+		Dicho esto, la comida cada vez es más escasa.
+		Mas allá de los murciélagos, perdí los ratones - parece que
+		reconocieron a su mayor amenaza.
+		El tiempo esta fuera de mi alcance.
+		A pesar de los estudios, me queda poco."
 
 
 		...
 
 
-		"Time grows weary; as do I.
-		Studies continue, fervor reaching new heights
-		as I see things unique to this strange cavern.
-		Behind the hunger pains, the fatigue;
-		despite my dismal state of being,
-		I live stronger than I've ever lived.
-		To me, this is life, the creatures around here
-		thrive, play, talk, and fight.
-		Perhaps there's even more I can't see.
-		Alas, Death comes knocking,
-		and I've no way to close the door.
-		But perhaps, in some other time,
-		these plants find another pair of eyes,
-		and bewilder as I have been bewildered."
+		"El tiempo se cansa; a la par que yo.
+		Los estudios continuan, el fervor en nuevas alturas
+		a medida que veo cosas únicas en esta extraña caverna.
+		Detras del dolor del hambre, la fatiga;
+		a pesar de mi deprimente estado,
+		vivo más fuerte que nunca.
+		Para mi, esto es vivir, las creaturas alrededor
+		prosperan, juegan, hablan y pelean.
+		Quizas hay aún más que no logro ver.
+		Alas, la muerte esta tocando,
+		y no tengo forma de cerrarle la puerta.
+		Pero tal vez, en algun otro momento,
+		estas plantas encuentren otro par de ojos,
+		y los desconcierte tanto como a mi."
 
 
 		...
 
 
-		"View; a flower. A flower with a bulb in it,
-		a curious one -
-		betwixt the petals, a gentle glow.
-		A calming glow.
-		A glow unlike anything I’ve seen in my time here.
-		I’ve all but abandoned my study.
-		There’s no food, and I’m on my last breaths.
-		My only regret is being unable to study this flora,
-		this gift presented before me.
+		Vista; una flor. Una con un bulbo en su interior,
+		uno notable -
+		entre los pétalos, un gentil resplandor.
+		Uno que calma.
+		Un resplandor como ningun otro que haya visto aquí.
+		Lo tenia todo pero abandone mi estudio.
+		No hay comida, y me encuentro en mi último suspiro.
+		Mi único arrepentimiento es no poder estudiar esta flora,
+		Este regalo que se me ha otorgado.
 		...
-		May someone find my work.
-		May some passion revive what I’ve died doing.
-		May this journal find someone in good health,
-		in good spirits,
-		and goodbye."
+		Ojalá alguien encuentre mi trabajo.
+		Ojalá una pasión reviva lo que mori haciendo.
+		Ojalá este diario encuentre a alguien sano,
+		a un alegre bonachón,
+		Adiós."
 
 		'''
 	# Note that the lines "in good spirits," and "and goodbye." are intentionally spaced out, ideally keep that if you can.
 	
-	Title: "'My Apotheosis'"
+	Title: "'Mi Apoteosis'"
 }
