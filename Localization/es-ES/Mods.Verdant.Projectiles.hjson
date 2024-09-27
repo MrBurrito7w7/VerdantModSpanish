@@ -1,26 +1,26 @@
-PermVineWandProjectile.DisplayName: Enchanted Vine
-AquamarineBolt.DisplayName: Aquamarine Bolt
-HealPlants.DisplayName: Heal Plants
-HealingFlower.DisplayName: Yellow Sprout
-PropellerpadProjectile.DisplayName: Propellerpad
-VerdantHealingMinion.DisplayName: Lush Flower
-VerdantSnailMinion.DisplayName: Snale
+PermVineWandProjectile.DisplayName: Enredadera Encantada
+AquamarineBolt.DisplayName: Flecha de Aguamarina
+HealPlants.DisplayName: Plantas Sanadoras
+HealingFlower.DisplayName: Brote Amarillo
+PropellerpadProjectile.DisplayName: HéliceCarpeta
+VerdantHealingMinion.DisplayName: Flor Frondosa
+VerdantSnailMinion.DisplayName: Caracol
 AquamarineHookProjectile.DisplayName: ${ProjectileName.GemHookAmethyst}
-FlotieOfWrath.DisplayName: Flotie Of Wrath
-MagicWisplantProj.DisplayName: Magic Wisplant
-MudBoulder.DisplayName: Lush Soil Ball
-PestControlTag.DisplayName: Pest Control Tag
-VerdantBobber.DisplayName: Verdant Bobber
-VerdantWisp.DisplayName: Wisp
+FlotieOfWrath.DisplayName: Flotador de la ira
+MagicWisplantProj.DisplayName: Wisplant Mágico
+MudBoulder.DisplayName: Bola de suelo frondoso
+PestControlTag.DisplayName: Etiqueta de control de plagas
+VerdantBobber.DisplayName: Corcho Verdeante
+VerdantWisp.DisplayName: Jirón
 VineHookProjectile.DisplayName: ${ProjectileName.GemHookAmethyst}
-VineWandVine.DisplayName: Vine
-WisplantInfusedLushBallProjectile.DisplayName: Wisplant-Infused Lush Soil Ball
-ApotheosisHand.DisplayName: Apotheosis Hand
-HealingParticle.DisplayName: Healing Particle
-Smoke.DisplayName: Smoke
-LushDaggerProj.DisplayName: Lush Dagger
-SpikedPuffballProj.DisplayName: Spiked Puffball
-HostSwarm.DisplayName: Host Swarm
-HostSwarmBee.DisplayName: Host Swarm Bee
-FruitProjectile.DisplayName: Fruit Projectile
-ChlorovineWandProjectile.DisplayName: Chlorovine Wand Projectile
+VineWandVine.DisplayName: Enredadera
+WisplantInfusedLushBallProjectile.DisplayName: Bola de suelo frondoso inbuida de wisplant
+ApotheosisHand.DisplayName: Mano del Apoteosis
+HealingParticle.DisplayName: Partícula Curativa
+Smoke.DisplayName: Humo
+LushDaggerProj.DisplayName: Daga frondosa
+SpikedPuffballProj.DisplayName: Bola esponjosa espinada
+HostSwarm.DisplayName: Enjambre de anfitriones
+HostSwarmBee.DisplayName: Enjambre de abejas anfitrionas
+FruitProjectile.DisplayName: Proyectil de fruta
+ChlorovineWandProjectile.DisplayName: Proyectil de varita de clorovina
