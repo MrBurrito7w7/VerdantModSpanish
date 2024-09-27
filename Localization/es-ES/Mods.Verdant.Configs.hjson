@@ -1,14 +1,14 @@
-HeadLabel: Verdant Client Configuration
-EnableSteamEffectLabel: "[i:3365] Enable Steam Effect"
-EnableSteamEffectTooltip: Enables steam overlay when inside of the underground Verdant.
-EnableForeOrBackgroundObjectsLabel: "[i:933] Enable Foreground/Background Objects"
-EnableForeOrBackgroundObjectsTooltip: Enables decoration objects appearing in the surface background or foreground everywhere.
-EnableCustomWaterfallsLabel: "[i:2169] Enable Custom Waterfalls"
-EnableCustomWaterfallsTooltip: Enables waterfalls appearing from tiles, such as the Weeping Bud.
-CustomDialogueSystemLabel: "[i:320] Custom Dialogue System"
-CustomDialogueSystemTooltip: Allows the usage of a custom dialogue system for the Apotheosis. If turned off, will just use the chat.
-FancyBookUILabel: "[i:4065] Fancy Book UI"
-FancyBookUITooltip: Changes the book UI to something unique.
+HeadLabel: Configuración de cliente Verdant
+EnableSteamEffectLabel: "[i:3365] Activar efecto de vapor"
+EnableSteamEffectTooltip: Activa un recubrimiento al estar en las Cuevas Verdeantes.
+EnableForeOrBackgroundObjectsLabel: "[i:933] Activar objetos de primer plano/Fondo"
+EnableForeOrBackgroundObjectsTooltip: Activa objetos de decoración en el fondo de la superficie o por todas partes del primer plano.
+EnableCustomWaterfallsLabel: "[i:2169] Activar cascadas personalizadas"
+EnableCustomWaterfallsTooltip: Permite que aparezcan cascadas desde los bloques, como el Brote Llorón.
+CustomDialogueSystemLabel: "[i:320] Sistema de diálogos personalizado"
+CustomDialogueSystemTooltip: Permite el uso de un sistema de dialogo personalizado para el Apoteosis. Si se desactiva, utilizará el chat.
+FancyBookUILabel: "[i:4065] UI de libro elegante"
+FancyBookUITooltip: Cambia la UI de libro a algo único.
 
 VerdantClientConfig: {
 	DisplayName: "{$Mods.Verdant.Configs.HeadLabel}"
@@ -34,7 +34,7 @@ VerdantClientConfig: {
 	}
 
 	JungleSpawn: {
-		Label: "[i:620] Jungle Spawn"
-		Tooltip: Forces the Verdant to only spawn in the Jungle. This is less likely to overwrite most modded biomes if that is an issue.
+		Label: "[i:620] Spawn de jungla"
+		Tooltip: Obliga al Verdeante a aparecer en la jungla. Así es menos probable que sobrescriba algun bioma modeado.
 	}
 }
