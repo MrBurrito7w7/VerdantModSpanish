@@ -1,11 +1,11 @@
 Botanist: {
-	DisplayName: Botanist
-	Flavor: The druid of the science world; understands what makes life life, what grows and dies, and most importantly, what fungi is the tastiest.
-	Description: Starts with 500 lush shivs, 10 wisplants, 10 pink puff, 80 max mana, and an expert guide to plant fiber cordage.
+	DisplayName: Botánico
+	Flavor: El druida del mundo de la ciencia; entiende qué hace que la vida exista, qué crece y muere, y lo más importante, qué hongos son los más sabrosos.
+	Description: Comienza con 500 navajas frondozas, 10 wisplants, 10 esponjosidades rosas, 80 mana máximo, y una guía experta sobre cordelería con fibra vegetal.
 }
 
 MinorSummoner: {
-	DisplayName: Lushman
-	Flavor: A child of the Apotheosis, in word only. A botanist in a past life.
-	Description: Starts with a full Lush Wood set, a Yellow Sprout, a Lightbloom and lowered max health.
+	DisplayName: Hombre Frondoso
+	Flavor: Un hijo del Apoteosis, in word only. Un botánico en una vida pasada.
+	Description: Empieza con un set completo de Madera Frondosa, un Brote Amarillo, una Flor de luz y vida máxima disminuida.
 }
