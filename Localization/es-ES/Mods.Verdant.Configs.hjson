@@ -35,6 +35,6 @@ VerdantClientConfig: {
 
 	JungleSpawn: {
 		Label: "[i:620] Spawn de jungla"
-		Tooltip: Obliga al Verdeante a aparecer en la jungla. Así es menos probable que sobrescriba algun bioma modeado.
+		Tooltip: Obliga al Verdant a generarse en la jungla. Reduce la probabilidad de sobrescribir biomas modeados.
 	}
 }
