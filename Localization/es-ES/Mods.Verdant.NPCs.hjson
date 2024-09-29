@@ -89,6 +89,11 @@ ShellSnail: {
 }
 
 CanopySnail: {
-	DisplayName: Pabellón Caracol
+	DisplayName: Caracol Pabellón
 	Entry: Un pequeño bosque se equilibra sobre el fuerte caparazón de este caracol. Si miras de cerca, hay toneladas de caracoles pequeños allí.
+}
+
+LunarJelly: {
+	DisplayName: Medusa Lunar
+	Entry: Parece, que la noche se coló en el Verdor. Estas misteriosas criaturas aparecen solo cuando una Astrónoma Azúl es polinizada, y desaparecen rápidamente; quién sabe por qué
 }
