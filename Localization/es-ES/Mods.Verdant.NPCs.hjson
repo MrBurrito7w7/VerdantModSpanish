@@ -52,13 +52,13 @@ Flotiny: {
 }
 
 MysteriaFlotie: {
-	DisplayName: Flotador Misterioso
-	Entry: Una variante del florador común del Verdant, encontrado en las arboledas misteriosas. Huele a un agradable, aroma floral.
+	DisplayName: Flotador Misterio
+	Entry: Una variante del florador común del Verdant, encontrado en las arboledas misterio. Huele a un agradable, aroma floral.
 }
 
 MysteriaFlotiny: {
-	DisplayName: Flotarín Misterioso
-	Entry: Una creatura reciemtemente descubierta, Los Flotarines Misteriosos parecen congregarse alrededor de las marquesinas misteriosas. ¿Quizás haya más que aprender sobre estas criaturas?
+	DisplayName: Flotarín Misterio
+	Entry: Una creatura reciemtemente descubierta, Los Flotarines Misteriosos parecen congregarse alrededor de las marquesinas misterio. ¿Quizás haya más que aprender sobre estas criaturas?
 }
 
 Folifish: {
