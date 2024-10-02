@@ -7,8 +7,8 @@ MapObject: {
 
 TileInteraction: {
 	MysteriaClock: {
-		London: " (London time)"
-		NewYork: " (New York time)"
+		London: " (Hora de Londres)"
+		NewYork: " (Hora de New York)"
 	}
 }
 
