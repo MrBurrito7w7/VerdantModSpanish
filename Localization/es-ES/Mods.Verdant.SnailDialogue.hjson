@@ -1,25 +1,25 @@
 # Try and keep these short, but otherwise go wild.
 
 Prehardmode: {
-	0: Statue of a Snail
-	1: Snail Statue
-	2: Valiant Snail
+	0: Estatua de un Caracol
+	1: Estatua de Caracol
+	2: Caracol Valiente
 }
 
 LatePrehardmode: {
-	0: Elder Snail
-	1: A Lost Snail
-	2: Statue of a Friend
+	0: Caracol Anciano
+	1: Un Caracol Perdido
+	2: Estatua de un Amigo
 }
 
 Hardmode: {
-	0: Lost Pet
-	1: Past Memory
-	2: Reminder
+	0: Mascota Perdida
+	1: Memoria del Pasado
+	2: Recordatorio
 }
 
 Endgame: {
-	0: Forever Friend
-	1: Our Memory
+	0: Amigo Por Siempre
+	1: Nuestra Memoria
 	2: Orwell
 }
